@@ -1,6 +1,8 @@
-final�����ࣺ���ɱ��̳�
-final���η��������ɱ�������д
-final�������ԣ�ֻ������ʱ���췽����ֵ
-final���ξ�̬���ԣ�ֻ������ʱ��static�鸳ֵ
-final�����βΣ��ββ��ɱ���ֵ
-final���ξֲ�����������ʱ��ֵ������ֻ�ܱ���ֵһ�Ρ�
+final修饰类：不可被继承
+final修饰方法：不可被子类重写
+final修饰属性：只可声明时或构造方法赋值
+final修饰静态属性：只可声明时或static块赋值
+final修饰形参：形参不可被赋值
+final修饰局部变量：声明时赋值，或者只能被赋值一次。
+
+protected: 同包可以访问，不同包时，只能是其子类可访问
