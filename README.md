@@ -8,11 +8,14 @@ java sort源码
 集合类
 排行榜
 LRU其他实现
+序列化
+一致性哈希
 
 未看：
 http
 线程池
 java 字节码 内存 垃圾回收
 netty
+mysql
 
 
